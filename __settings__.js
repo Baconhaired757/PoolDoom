@@ -18,5 +18,5 @@ window.INPUT_SETTINGS = {
 };
 pc.script.legacy = false;
 window.PRELOAD_MODULES = [
-    {'moduleName' : 'Ammo', 'glueUrl' : '/ammo.wasm.js', 'wasmUrl' : '/ammo.wasm.wasm', 'fallbackUrl' : '/ammo.js', 'preload' : true},
+    {'moduleName' : 'Ammo', 'glueUrl' : 'ammo.wasm.js', 'wasmUrl' : 'ammo.wasm.wasm', 'fallbackUrl' : 'ammo.js', 'preload' : true},
 ];
